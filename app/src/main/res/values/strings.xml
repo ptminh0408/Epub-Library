@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name"></string>
+    <string-array name="language">
+        <item>Vietnamese</item>
+        <item>English</item>
+    </string-array>
+
+
+    <string-array name="genre">
+        <item>Fantasy</item>
+        <item>Romance</item>
+        <item>Literature</item>
+        <item>Technology</item>
+    </string-array>
+
+    <string name="nav_My_Profile">MY PROFILE</string>
+    <string name="nav_Home">HOME</string>
+    <string name="nav_Log_Out">LOG OUT</string>
+    <string name="nav_Account">ACCOUNT</string>
+    <string name="nav_Change_Password">CHANGE PASSWORD</string>
+    <string name="navigation_Drawer_Open">Open navigation</string>
+    <string name="navigation_Drawer_Close">Close navigation</string>
+    <string name="navigation_Library">LIBRARY</string>
+    <string name="search_action">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.bartwell:exfilepicker:2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Android/Sdk/caches/transforms-3/1db2d7b3b6879fcfa37f4f3c561df194/transformed/jetified-exfilepicker-2.1/res" />
+      <root url="jar://$USER_HOME$/Android/Sdk/caches/transforms-3/1db2d7b3b6879fcfa37f4f3c561df194/transformed/jetified-exfilepicker-2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Android/Sdk/caches/transforms-3/1db2d7b3b6879fcfa37f4f3c561df194/transformed/jetified-exfilepicker-2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Android/Sdk/caches/modules-2/files-2.1/ru.bartwell/exfilepicker/2.1/6c76a5d6b2c65896655203c0c5d7c3ead0100009/exfilepicker-2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Android/Sdk/caches/modules-2/files-2.1/ru.bartwell/exfilepicker/2.1/b64054ce6694b817a9887dec11d5a85020f8d34c/exfilepicker-2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

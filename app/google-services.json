@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789832942336",
+    "project_id": "epublib-9b879",
+    "storage_bucket": "epublib-9b879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789832942336:android:9a4a6739882544431169e5",
+        "android_client_info": {
+          "package_name": "com.example.epub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789832942336-gainvunssinb085nfvdg0lstopfgng0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfbr-kzxdAR0PdyxDV8B5iDpJ1O4Zne98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789832942336-gainvunssinb085nfvdg0lstopfgng0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
